@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PokemonApp</string>
+    <string name="experience">Experience</string>
+    <string name="height">Height</string>
+    <string name="weight">Weight</string>
+    <string name="types">Types</string>
+    <string name="abilities">Abilities</string>
+    <string name="forms">Forms</string>
+    <string name="home">Home</string>
+    <string name="details">Details</string>
+    <string name="pokemon_image">Pokemon Image</string>
+</resources>
