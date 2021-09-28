@@ -4,5 +4,5 @@ Used Retrofit for network access
 Added pagination for recycler view (scroll down to load more pokemons)  
 Added basic unit testing and instrumented testing   
 Used dependency injection (Not with Dagger)  
-UI is adapted to orientation changes  
+UI is adapted to orientation changes (check details screen)  
 Added animation for fragment navigation (slide in and out)  
